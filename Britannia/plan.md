@@ -67,3 +67,6 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 </details>
 
 ## Next Steps
+<br/>
+
+[Project Plan](https://github.com/users/ckeerti/projects/1/views/1)
