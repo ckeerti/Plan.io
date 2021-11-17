@@ -14,18 +14,16 @@ Britannia Industries Limited is an Indian company specialised in food industry, 
 
 #### **Key Personas:**
 
-Mr.Nusli N Wadia – **Chairman**
+Mr.Nusli N Wadia – **Chairman**<br/>
+Mr.Varun Berry - **Managing Director**<br/>
+Mr.N Venkataraman - **Chief Financial Officer**<br/>
+Mr.Manoj Balgi - **Vice President**<br/>
+Mr.Manjunath Desa - **Vice President**<br/>
+Mr.Ritesh Rana - **Vice President - Human Resources**<br/>
+Mr.Annu Gupta - **Vice President - International Business**<br/>
+Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 
-Mr.Varun Berry - **Managing Director**
 
-Mr.N Venkataraman - **Chief Financial Officer**
+A snapshot of the **SWOT**
 
-Mr.Manoj Balgi - **Vice President** 
-
-Mr.Manjunath Desa - **Vice President**
-
-Mr.Ritesh Rana - **Vice President - Human Resources**
-
-Mr.Annu Gupta - **Vice President - International Business**
-
-Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**
+![pic](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.14.01%20AM.png)
