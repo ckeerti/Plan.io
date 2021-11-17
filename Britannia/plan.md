@@ -25,8 +25,7 @@ Mr.Annu Gupta - **Vice President - International Business**<br/>
 Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 
 <br/>
-<br/>
-<br/>
+
 
 ## More Information
 <details>
@@ -65,3 +64,6 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
   <br/>
 <img src="https://user-images.githubusercontent.com/57761611/142142896-7fe077d1-3df4-4d26-b9d2-a74463cbf8b7.png" width="450"/>
 
+</details>
+
+## Next Steps
