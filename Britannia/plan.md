@@ -31,17 +31,37 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 ## More Information
 <details>
 <summary>SWOT Analysis</summary>
+  
 ![swot](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.14.01%20AM.png)
+</pre>
+</details>
 
-
-**MARKET ANALYSIS:**
+---
+<details>
+<summary>Market Analysis</summary>
+  
+**Market Research:**<br/>
 ![analysis](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.19.59%20AM.png)
 
-**Takeaways:**<br/>
+  </pre>
+</details>
+
+---
+  <details>
+<summary>Key TakeAways</summary>
+  
+
+  
 1. Britannia Q2 results: Consolidated PAT slumps 23% YoY, misses estimate; **sales rise 5.5%**<br/>
 2. Britannia rural business contribution may **rise to 50% in 3 years**<br/>
-3. **32.89% increase** in the Net Income for FY 21<br/>
+3. 32.89% increase in the Net Income for FY 21<br/>
+</pre>
+</details>
 
-**Propensity to Buy:**<br/><br/>
+---
+<details>
+<summary>Buying Desire</summary>
+<br/>
+  <br/>
 <img src="https://user-images.githubusercontent.com/57761611/142142896-7fe077d1-3df4-4d26-b9d2-a74463cbf8b7.png" width="450"/>
 
