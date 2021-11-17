@@ -27,3 +27,6 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 A snapshot of the **SWOT**
 
 ![pic](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.14.01%20AM.png)
+
+
+**MARKET ANALYSIS:**
