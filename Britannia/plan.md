@@ -37,3 +37,6 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 1. Britannia Q2 results: Consolidated PAT slumps 23% YoY, misses estimate; sales rise 5.5%<br/>
 2. Britannia rural business contribution may **rise to 50% in 3 years**<br/>
 3. **32.89% increase** in the Net Income for FY 21<br/>
+
+**Propensity to Buy:**<br/><br/>
+![image](https://user-images.githubusercontent.com/57761611/142142896-7fe077d1-3df4-4d26-b9d2-a74463cbf8b7.png)
