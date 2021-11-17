@@ -1,4 +1,5 @@
-**About:**
+![Britannia Industries - Crunchbase Company Profile &amp; Funding](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rxvipmqjxnfw4ubc3agh)
+#### **About:**
 
 Britannia Industries Limited is an Indian company specialised in food industry, part of the Wadia Group headed by Nusli Wadia. Founded in 1892 and headquartered in Kolkata, it is one of India's oldest existing companies and best known for its biscuit products
 
