@@ -30,3 +30,9 @@ A snapshot of the **SWOT**
 
 
 **MARKET ANALYSIS:**
+![analysis](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.19.59%20AM.png)
+
+**Takeaways:**<br/>
+1. Britannia Q2 results: Consolidated PAT slumps 23% YoY, misses estimate; sales rise 5.5%<br/>
+2. Britannia rural business contribution may **rise to 50% in 3 years**<br/>
+3. **32.89% increase** in the Net Income for FY 21<br/>
