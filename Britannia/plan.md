@@ -23,8 +23,9 @@ Mr.Ritesh Rana - **Vice President - Human Resources**<br/>
 Mr.Annu Gupta - **Vice President - International Business**<br/>
 Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 
-
-A snapshot of the **SWOT**
+<br/>
+<br/>
+<br/>
 
 ![pic](https://github.com/ckeerti/Plan/blob/main/pics/Screenshot%202021-11-17%20at%2011.14.01%20AM.png)
 
