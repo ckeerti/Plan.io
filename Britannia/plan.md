@@ -2,13 +2,13 @@
 
 Britannia Industries Limited is an Indian company specialised in food industry, part of the Wadia Group headed by Nusli Wadia. Founded in 1892 and headquartered in Kolkata, it is one of India's oldest existing companies and best known for its biscuit products
 
-**CEO**: Varun Berry (1 Apr 2014–)
-**Headquarters**: Bengaluru
-**Founded**: 1892
-**Revenue**: 11,878.95 crores INR (US$1.7 billion, 2020)
-**Parent organization**: Wadia Group
-**Market Cap**: 88,887 Cr
-**Employee Count**: ~4500
+**CEO**: Varun Berry (1 Apr 2014–)<br/>
+**Headquarters**: Bengaluru<br/>
+**Founded**: 1892<br/>
+**Revenue**: 11,878.95 crores INR (US$1.7 billion, 2020)<br/>
+**Parent organization**: Wadia Group<br/>
+**Market Cap**: 88,887 Cr<br/>
+**Employee Count**: ~4500<br/>
 
 
 
