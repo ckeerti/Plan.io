@@ -92,7 +92,7 @@ care as customers started troubleshooting themselves
 <details>
 <summary>Buying Desire</summary>
 <br/>
-  <br/>
+
 
 <img src="https://user-images.githubusercontent.com/57761611/142630103-71cbbbef-03cd-4d98-a426-7f8b22e8b389.png" width="450"/>
 
