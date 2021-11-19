@@ -40,13 +40,13 @@ Tata Sky partnered with EY for their expertise in processes automation. EY helpe
 Tata Sky chose IBMs WebSphere SOA, which has the capability of migrating the
 existing applications into services, to create a computing architecture meant to
 easily manage the growth of business apart from meeting customers requirements.
-The solution suite was keeping with the emerging needs of the future. Tata Sky
+The solution suite was keeping with the emerging needs of the future. <br/>Tata Sky
 managed to model its business process with the help of IBM WebSphere Business
 Modeler. This also ensured that these processes were deployed, monitored and
 initiated to meet key performance indicators. The other component of the
 solution suite was IBM WebSphere Process Server (IBM WPS), a type of performance
 engine. The IBM WebSphere Enterprise Service Bus helped connect various
-applications of Tata. Finally it was the IBM WebSphere Portal, which helped
+applications of Tata. <br/>Finally it was the IBM WebSphere Portal, which helped
 create a rich user experience and the IBM Tivoli Composite Application Manager
 for ensuring applications performance and availability. Self-service portals also took the load off customer
 care as customers started troubleshooting themselves  
