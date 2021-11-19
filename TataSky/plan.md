@@ -4,18 +4,12 @@
 
 Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India
 
-**[CEO](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+ceo&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK11LMTrbSzy9KT8zLrEosyczPQ-FYJafmL2LlKUksSVQozq5UAHIBQDbDF0AAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECFMQAg):** [Harit Nagpal](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=Harit+Nagpal&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hKVwKzs0xMSkyztRSzk63084vSE_MyqxJLMvPzUDhWyan5i1h5PBKLMksU_BLTCxJzdrAyAgDct9JQTwAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQmxMoAXoECFMQAw) (Aug 2010– Present)
-
-**[Headquarters](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+headquarters&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK19LKTrbSzy9KT8zLrEosyczPQ-FYZaQmphSWJhaVpBYVL2IVLUksSVQozq5UQBYHADAfz8dSAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECFQQAg):** [Santacruz, Mumbai](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=Santacruz,+Mumbai&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hKV-IEs8vLzUq0tLKTrfTzi9IT8zKrEksy8_NQOFYZqYkphaWJRSWpRcWLWAWDE_NKEpOLSqt0FHxLc5MSM3ewMgIAvci7KFwAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQmxMoAXoECFQQAw)
-
-**[Number of employees](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+number+of+employees&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK19LJKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq3y8hXy0xRScwty8itTU4sXscqUJJYkKhRnVyrkleYmpRahSAMAqhf1AlsAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECFIQAg):** 1,500
-
-**[Founded](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+founded&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK11LNTrbSzy9KT8zLrEosyczPQ-FYpeWX5qWkpixiFShJLElUKM6uVIAKAQATofkoSAAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECEkQAg):** 10 August 2006
-
-**[Subsidiary](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+subsidiary&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sXsQqXJJYkKhRnVyrAxSsBa4NY-08AAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECEoQAg):** [Tata Sky Broadband Private Limited](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=Tata+Sky+Broadband+Private+Limited&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hKV-LVT9c3NMwwzklPyi7K0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sXsSqFJJYkKgRnVyo4FeUnpiQl5qUoBBRlliWWpCr4ZOZmlqSm7GBlBAClEaTbcAAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQmxMoAXoECEoQAw)
-
-**[Parent organization](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=tata+sky+parent+organization&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hK1zLIKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq0KEotS80oUkAUXscqUJJYkKhRnVypgkQYAh1ui218AAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQ6BMoAHoECEgQAg):** [Tata Sons](https://www.google.com/search?newwindow=1&rlz=1C5GCEM_enIN969IN969&sxsrf=AOaemvJRKc44kn4gcF9x7K6uAmhWP9c-dg:1637325922076&q=Tata+Sons&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDLPs6hKV4KwLQwKyyq1DDLKrfST83NyUpNLMvPz9POL0hPzMqsSQZxiq4LEotS8EgVkwUWsnCGJJYkKwUD5HayMAKNCudZbAAAA&sa=X&ved=2ahUKEwj2xd2vuqT0AhV3ILcAHXKbBQQQmxMoAXoECEgQAw)
-
+CEO: Harit Nagpal (Aug 2010– Present)<br/>
+Headquarters: Santacruz, Mumbai<br/>
+Number of employees: 1,500<br/>
+Founded: 10 August 2006<br/>
+Subsidiary: Tata Sky Broadband Private Limited<br/>
+Parent organization: Tata Sons<br/>
 
 
 **More Information:**
@@ -56,4 +50,15 @@ applications of Tata. Finally it was the IBM WebSphere Portal, which helped
 create a rich user experience and the IBM Tivoli Composite Application Manager
 for ensuring applications performance and availability. Self-service portals also took the load off customer
 care as customers started troubleshooting themselves  
+
+</pre>
+</details>
+
+---
+<details>
+<summary>Key Measures</summary> <br/>
+  
+  For Product Manager - [Vinati Malik](https://www.linkedin.com/in/vinati-malik-3554321a/)
+  1. Launch a product and then to keep building features on top of that product to power better usage, better engagement, better experience—to ensure that the customer continues to use and therefore continues to subscribe. The business objectives on our mobile app are to get downloads and registrations, to get higher monthly or daily active users, to get more time spent on the platform, etc
+  2. We’re working towards our **big dream of having a 360° single view of the customer**. There’s the customer’s behavior, consumption journey on devices, navigation of the product, etc. and then there’s this journey on the entire platform in terms of billing, recharge, pack subscriptions, etc. There is a wealth of data to mine and unify for better insights and decision making
 
