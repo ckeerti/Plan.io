@@ -85,3 +85,16 @@ care as customers started troubleshooting themselves
   1. Launch a product and then to keep building features on top of that product to power better usage, better engagement, better experience—to ensure that the customer continues to use and therefore continues to subscribe. The business objectives on our mobile app are to get downloads and registrations, to get higher monthly or daily active users, to get more time spent on the platform, etc
   2. TataSky is working towards their **big dream of having a 360° single view of the customer**. There’s the customer’s behavior, consumption journey on devices, navigation of the product, etc. and then there’s this journey on the entire platform in terms of billing, recharge, pack subscriptions, etc. There is a wealth of data to mine and unify for better insights and decision making
 
+  </pre>
+</details>
+
+---
+<details>
+<summary>Buying Desire</summary>
+<br/>
+  <br/>
+
+<img src="https://user-images.githubusercontent.com/57761611/142630103-71cbbbef-03cd-4d98-a426-7f8b22e8b389.png" width="450"/>
+
+
+</details>
