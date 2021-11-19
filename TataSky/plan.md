@@ -22,9 +22,10 @@ Parent organization: Tata Sons<br/>
 <details>
 <summary>Market Analysis</summary>
   <br/>
-Tata Sky Market Share Increased to **33.3%** while Dish TV Further Dips to 24.09% in 2021. Tata Sky is the leading DTH service provider with a market share of 32.58% in 2020. At the end of the first quarter of 2020, Tata Sky had a 32.09% share, and it increased to 32.58% by the end of September 2020
+Tata Sky Market Share Increased to **33.3%** while Dish TV Further Dips to 24.09% in 2021. Tata Sky is the leading DTH service provider with a market share of 32.58% in 2020. At the end of the first quarter of 2020, Tata Sky had a 32.09% share, and it increased to 32.58% by the end of September 2020 <br/>
 
-![Tata Sky Market Share Increased to 32.58%, Dish TV Further Dips to 27%](https://telecomtalk.info/wp-content/uploads/2021/01/tatasky-dth-dishtv-market-share-1024x683.jpg)
+<img align="center" width="500" height="500" src="https://telecomtalk.info/wp-content/uploads/2021/01/tatasky-dth-dishtv-market-share-1024x683.jpg">
+
 </pre>
 </details>
 
