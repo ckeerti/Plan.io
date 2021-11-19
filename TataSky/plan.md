@@ -4,6 +4,9 @@
 
 Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India.
 
+Tata Sky reported a consolidated revenue of Rs 4,682.21 crore in FY21. The company posted a net profit of Rs 68.75 crore as against a net loss of Rs 234.1 crore.
+
+
 CEO: Harit Nagpal (Aug 2010– Present)<br/>
 Headquarters: Santacruz, Mumbai<br/>
 Number of employees: 1,500<br/>
@@ -20,6 +23,24 @@ Parent organization: Tata Sons<br/>
 Tata Sky Market Share Increased to **33.3%** while Dish TV Further Dips to 24.09% in 2021. Tata Sky is the leading DTH service provider with a market share of 32.58% in 2020. At the end of the first quarter of 2020, Tata Sky had a 32.09% share, and it increased to 32.58% by the end of September 2020
 
 ![Tata Sky Market Share Increased to 32.58%, Dish TV Further Dips to 27%](https://telecomtalk.info/wp-content/uploads/2021/01/tatasky-dth-dishtv-market-share-1024x683.jpg)
+</pre>
+</details>
+
+---
+<details>
+<summary>Financial Summary</summary>
+  <br/>
+Content distribution platform Tata Sky has seen a flat growth in consolidated revenue at Rs 4,682.21 crore for the fiscal ended 31st March 2021 as against Rs 4,680.88 crore in the previous fiscal. Total income saw a marginal decline at Rs 4,704.83 crore compared to Rs 4,722.72 crore a year ago.
+
+According to financial data accessed by business intelligence platform Tofler, the revenue from the core DTH business was down by 1.2% at Rs 4,593.01 crore from Rs 4,648.83 crore. Revenue from the provisioning of broadband service was up 2.8x at Rs 89.2 crore from Rs 32.05 crore. Tata Sky Broadband, a subsidiary of Tata Sky, provides broadband services to customers across the country.
+
+In terms of revenue break-up, subscription and service revenue stood at Rs. 3,919.99 crore compared to Rs. 3,903.33 crore. Activation and Installation Revenue came in at Rs. 308.60 crore, compared to Rs. 303.09 crore. Other Service Revenue was Rs. 453.25 crore, compared to Rs. 474.44 crore.
+
+The company, which had 23.16 million active subscribers till 31st March, posted a net profit of Rs 68.75 crore as against a net loss of Rs 234.1 crore. Total expenses stood at Rs 4,578.26 as against Rs 4,611.2 crore.
+
+With content cost becoming a pass-through in the new tariff regime, the biggest cost item for the DTH operator was licence fees. In FY21, the company paid Rs. 758.85 crore as licence fee, compared to Rs. 740.67 crore. The company incurred an expenditure of Rs. 153.67 crore on programming cost, which is a 59% growth over Rs. 96.90 crore in the previous fiscal. Installation cost remained flat at Rs. 257.44 crore compared to Rs. 261.46 crore. The company's broadband operational cost increased by 39% to Rs. 65.06 crore, compared to Rs. 46.97 crore.
+
+In terms of related party transactions with Disney-owned Star India, the DTH operator's marketing income and other revenue from the broadcaster rose 30% to Rs 108.88 crore from Rs 83.57 crore in FY20. Further, Tata Sky paid Rs 968.83 crore to Star India as broadcaster share of maximum retail price (net of broadcast incentive) compared to Rs 938.94 crore in the previous fiscal.
 </pre>
 </details>
 
