@@ -91,7 +91,7 @@ care as customers started troubleshooting themselves
 
 ---
 <details>
-<summary>Buying Desire</summary>
+<summary>Buying Propensity</summary>
 <br/>
 
 
