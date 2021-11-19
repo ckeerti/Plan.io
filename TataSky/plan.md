@@ -2,7 +2,7 @@
 
 **About:**
 
-Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India
+Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India.
 
 CEO: Harit Nagpal (Aug 2010– Present)<br/>
 Headquarters: Santacruz, Mumbai<br/>
@@ -60,5 +60,5 @@ care as customers started troubleshooting themselves
   
   For Product Manager - [Vinati Malik](https://www.linkedin.com/in/vinati-malik-3554321a/)
   1. Launch a product and then to keep building features on top of that product to power better usage, better engagement, better experience—to ensure that the customer continues to use and therefore continues to subscribe. The business objectives on our mobile app are to get downloads and registrations, to get higher monthly or daily active users, to get more time spent on the platform, etc
-  2. We’re working towards our **big dream of having a 360° single view of the customer**. There’s the customer’s behavior, consumption journey on devices, navigation of the product, etc. and then there’s this journey on the entire platform in terms of billing, recharge, pack subscriptions, etc. There is a wealth of data to mine and unify for better insights and decision making
+  2. TataSky is working towards their **big dream of having a 360° single view of the customer**. There’s the customer’s behavior, consumption journey on devices, navigation of the product, etc. and then there’s this journey on the entire platform in terms of billing, recharge, pack subscriptions, etc. There is a wealth of data to mine and unify for better insights and decision making
 
