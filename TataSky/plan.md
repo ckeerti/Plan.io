@@ -1,5 +1,7 @@
 
 
+<img align="right" width="200" height="183" src="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/09/23/Untitled-1_1.jpg">
+
 **About:**
 
 Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India.
