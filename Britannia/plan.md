@@ -59,7 +59,7 @@ Mr.Vinay Singh Kushwaha - **Vice President - Supply Chain**<br/>
 
 ---
 <details>
-<summary>Buying Desire</summary>
+<summary>Buying Propensity</summary>
 <br/>
   <br/>
 <img src="https://user-images.githubusercontent.com/57761611/142142896-7fe077d1-3df4-4d26-b9d2-a74463cbf8b7.png" width="450"/>
