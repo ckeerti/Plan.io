@@ -73,7 +73,9 @@ engine. The IBM WebSphere Enterprise Service Bus helped connect various
 applications of Tata. <br/>Finally it was the IBM WebSphere Portal, which helped
 create a rich user experience and the IBM Tivoli Composite Application Manager
 for ensuring applications performance and availability. Self-service portals also took the load off customer
-care as customers started troubleshooting themselves  
+care as customers started troubleshooting themselves
+
+<img align="center" width="700" height="700" src="https://www.dragon1.com/images/ibm-reference-soa-for-banking.png">
 
 </pre>
 </details>
