@@ -52,7 +52,9 @@ In terms of related party transactions with Disney-owned Star India, the DTH ope
 <summary>Until Now</summary><br/>
 
   
-Tata Sky partnered with EY for their expertise in processes automation. EY helped Tata Sky select [Automation Anywhere RPA](https://www.automationanywhere.com/rpa/robotic-process-automation) and helped them determine which processes would be the best to automate, providing the greatest return on investment. Tata Sky began automating processes within its [finance](https://www.automationanywhere.com/solutions/finance-accounting), supply chain, and treasury departments before moving to more complex processes within its taxation and tax-related reconciliation teams.
+Tata Sky partnered with EY for their expertise in processes automation. EY helped Tata Sky select [Automation Anywhere RPA](https://www.automationanywhere.com/rpa/robotic-process-automation) and helped them determine which processes would be the best to automate, providing the greatest return on investment. Tata Sky began automating processes within its [finance](https://www.automationanywhere.com/solutions/finance-accounting), supply chain, and treasury departments before moving to more complex processes within its taxation and tax-related reconciliation teams.<br/>
+  
+In early 2021 Tata Sky and Croma, the entities owned by Tata Group, exposed the data of millions of their customers due to security vulnerabilities, according to a cybersecurity researcher. The issues allowed bad actors to access sensitive data including the full names, phone numbers, addresses, date of birth, and email IDs of both Tata Sky and Croma customers, by leveraging the loopholes existing in the application programme interfaces (APIs) on their websites. Both companies fixed the vulnerabilities after these were reported on the Web. 
 
 </pre>
 </details>
@@ -82,7 +84,7 @@ care as customers started troubleshooting themselves
 
 ---
 <details>
-<summary>Key Measures</summary> <br/>
+<summary>Areas of Interest</summary> <br/>
   
   For Product Manager - [Vinati Malik](https://www.linkedin.com/in/vinati-malik-3554321a/)
   1. Launch a product and then to keep building features on top of that product to power better usage, better engagement, better experience—to ensure that the customer continues to use and therefore continues to subscribe. The business objectives on our mobile app are to get downloads and registrations, to get higher monthly or daily active users, to get more time spent on the platform, etc
