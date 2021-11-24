@@ -101,6 +101,17 @@ As per the findings now, TCS supported Tata Sky in the areas of billing, ERP, cu
 
 ---
 <details>
+<summary>Road to 3.1M ACV</summary> <br/>
+  
+  
+![image](https://user-images.githubusercontent.com/57761611/143202352-e5708233-6035-420a-8a07-3098065e328e.png)
+
+
+  </pre>
+</details>
+
+---
+<details>
 <summary>Buying Propensity</summary>
 <br/>
 
