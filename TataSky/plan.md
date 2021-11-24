@@ -95,6 +95,17 @@ care as customers started troubleshooting themselves
 
 ---
 <details>
+<summary>Proactive Subscriber Care & Management</summary> <br/>
+  
+  
+![image](https://user-images.githubusercontent.com/57761611/143199090-15e86f55-5c97-4a4b-a2c7-0224cfae78a1.png)
+
+
+  </pre>
+</details>
+
+---
+<details>
 <summary>Buying Propensity</summary>
 <br/>
 
