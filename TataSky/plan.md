@@ -66,18 +66,13 @@ In early 2021 Tata Sky and Croma, the entities owned by Tata Group, exposed the 
 Tata Sky chose IBMs WebSphere SOA, which has the capability of migrating the
 existing applications into services, to create a computing architecture meant to
 easily manage the growth of business apart from meeting customers requirements.
-The solution suite was keeping with the emerging needs of the future. <br/>Tata Sky
-managed to model its business process with the help of IBM WebSphere Business
-Modeler. This also ensured that these processes were deployed, monitored and
-initiated to meet key performance indicators. The other component of the
-solution suite was IBM WebSphere Process Server (IBM WPS), a type of performance
-engine. The IBM WebSphere Enterprise Service Bus helped connect various
-applications of Tata. <br/>Finally it was the IBM WebSphere Portal, which helped
-create a rich user experience and the IBM Tivoli Composite Application Manager
-for ensuring applications performance and availability. Self-service portals also took the load off customer
-care as customers started troubleshooting themselves
+The solution suite was keeping with the emerging needs of the future. <br/> Self-service portals also took the load off customer
+care as customers started troubleshooting themselves. 
+<br/><br/>
+As per the findings now, TCS supported Tata Sky in the areas of billing, ERP, customer care, internal IT and customer facing applications. TCS helped Tata Sky ensure an omni-channel presence for end consumers. In addition to Electronic Voucher Distribution (EVD) that serves as a lifeline for the customer, TCS also deployed partner relationship management (PRM), which has two components: PRM sales and PRM service.<br/><br/>
+[TCS Story](https://www.tcs.com/tcs-helps-tata-sky-simplify-it-landscape-for-erp)
 
-<img align="center" width="700" height="700" src="https://www.dragon1.com/images/ibm-reference-soa-for-banking.png">
+
 
 </pre>
 </details>
@@ -95,7 +90,7 @@ care as customers started troubleshooting themselves
 
 ---
 <details>
-<summary>Proactive Subscriber Care & Management</summary> <br/>
+<summary>Typical Customer Priorities, Challenges, ServiceNow Value Proposition</summary> <br/>
   
   
 ![image](https://user-images.githubusercontent.com/57761611/143199090-15e86f55-5c97-4a4b-a2c7-0224cfae78a1.png)
