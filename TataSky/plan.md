@@ -6,9 +6,6 @@
 
 Tata Sky, a joint venture between Tata Sons and Disney, is India’s leading content distribution platform. It was the first in the country to launch 4K-enabled set-top boxes that allow users to access content from their mobile devices. The company currently has more than 22 million connections across India.
 
-Tata Sky reported a consolidated revenue of Rs 4,682.21 crore in FY21. The company posted a net profit of Rs 68.75 crore as against a net loss of Rs 234.1 crore.
-
-
 CEO: Harit Nagpal (Aug 2010– Present)<br/>
 Headquarters: Santacruz, Mumbai<br/>
 Number of employees: 1,500<br/>
@@ -37,9 +34,12 @@ Parent organization: Tata Sons<br/>
 <details>
 <summary>Financial Summary</summary>
   <br/>
+
+Tata Sky reported a consolidated revenue of Rs 4,682.21 crore in FY21. The company posted a net profit of Rs 68.75 crore as against a net loss of Rs 234.1 crore.
+  
 Content distribution platform Tata Sky has seen a flat growth in consolidated revenue at Rs 4,682.21 crore for the fiscal ended 31st March 2021 as against Rs 4,680.88 crore in the previous fiscal. Total income saw a marginal decline at Rs 4,704.83 crore compared to Rs 4,722.72 crore a year ago.
 
-According to financial data accessed by business intelligence platform Tofler, **the revenue from the core DTH business was down by 1.2% at Rs 4,593.01 crore from Rs 4,648.83 crore**. Revenue from the provisioning of broadband service was up 2.8x at Rs 89.2 crore from Rs 32.05 crore.
+According to financial data accessed by business intelligence platform Tofler, **the revenue from the core DTH business was down by 1.2% at Rs 4,593.01 crore from Rs 4,648.83 crore**.
 
 In terms of revenue break-up, subscription and service revenue stood at Rs. 3,919.99 crore compared to Rs. 3,903.33 crore. Activation and Installation Revenue came in at Rs. 308.60 crore, compared to Rs. 303.09 crore. Other Service Revenue was Rs. 453.25 crore, compared to Rs. 474.44 crore.
 
@@ -67,7 +67,7 @@ In early 2021 Tata Sky and Croma, the entities owned by Tata Group, exposed the 
 <details>
 <summary>Technology</summary> <br/>
  
-Tata Sky chose IBMs WebSphere SOA, which has the capability of migrating the
+Tata Sky chose IBMs WebSphere, which has the capability of migrating the
 existing applications into services, to create a computing architecture meant to
 easily manage the growth of business apart from meeting customers requirements.
 The solution suite was keeping with the emerging needs of the future. <br/> Self-service portals also took the load off customer
@@ -83,11 +83,13 @@ As per the findings now, TCS supported Tata Sky in the areas of billing, ERP, cu
 
 ---
 <details>
-<summary>Areas of Interest</summary> <br/>
+<summary>Strategic Priorities</summary> <br/>
   
-  For Product Manager - [Vinati Malik](https://www.linkedin.com/in/vinati-malik-3554321a/)
-  1. Launch a product and then to keep building features on top of that product to power better usage, better engagement, better experience—to ensure that the customer continues to use and therefore continues to subscribe. The business objectives on our mobile app are to get downloads and registrations, to get higher monthly or daily active users, to get more time spent on the platform, etc
-  2. TataSky is working towards their **big dream of having a 360° single view of the customer**. There’s the customer’s behavior, consumption journey on devices, navigation of the product, etc. and then there’s this journey on the entire platform in terms of billing, recharge, pack subscriptions, etc. There is a wealth of data to mine and unify for better insights and decision making
+1. To keep **looking for customer Insights** and then **asking Technology to create solutions to fulfil those needs** 
+2. Technology enabled **operational excellence** 
+3. Consistent **Vendor Performance and Asset Compliance**
+4. **Exceptional Customer Service**
+
 
   </pre>
 </details>
