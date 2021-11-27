@@ -96,21 +96,34 @@ As per the findings now, TCS supported Tata Sky in the areas of billing, ERP, cu
 
 ---
 <details>
-<summary>Typical Customer Priorities, Challenges, ServiceNow Value Proposition</summary> <br/>
+<summary>Swot Analysis</summary> <br/>
   
   
-![image](https://user-images.githubusercontent.com/57761611/143199090-15e86f55-5c97-4a4b-a2c7-0224cfae78a1.png)
+![image](https://user-images.githubusercontent.com/57761611/143677727-e367448a-9470-4ea7-935f-f0b85baeee45.png)<br/><br/>
 
+![image](https://user-images.githubusercontent.com/57761611/143677762-8b3762c6-2a32-4787-8fe6-1f0d51da68d9.png)
 
   </pre>
 </details>
 
 ---
 <details>
-<summary>Road to 3.1M ACV</summary> <br/>
+<summary>Mapping to ServiceNow value Proposition</summary> <br/>
   
   
-![image](https://user-images.githubusercontent.com/57761611/143202352-e5708233-6035-420a-8a07-3098065e328e.png)
+![image](https://user-images.githubusercontent.com/57761611/143677799-9ff1dd09-5bb9-479c-8dcf-4f2652e6d00a.png)
+
+
+  </pre>
+</details>
+
+---
+
+<details>
+<summary>Road to 4Mn</summary> <br/>
+  
+  
+![image](https://user-images.githubusercontent.com/57761611/143677907-50d5c89b-0432-4fab-a277-34e56486ccc6.png)
 
 
   </pre>
